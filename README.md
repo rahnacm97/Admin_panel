@@ -19,7 +19,6 @@ A professional, high-performance Product Management Dashboard built with **React
 - **API Client**: Axios
 - **Icons**: Material UI Icons (`@mui/icons-material`)
 - **Notifications**: React Toastify
-- **Styling**: Vanilla CSS (Modern Design Tokens)
 
 ## Setup Instructions
 
